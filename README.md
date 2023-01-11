@@ -1,7 +1,6 @@
+<img width="694" alt="Screenshot 2023-01-06 at 11 57 59" src="https://user-images.githubusercontent.com/76222513/211889204-fa015728-5551-4da1-8dc2-7c5ecd411e1c.png">
 
-<img width="1406" alt="Screen<img width="694" alt="Screenshot 2023-01-06 at 11 57 59" src="https://user-images.githubusercontent.com/76222513/211889088-d9d72fae-8662-450d-87ac-5fd786e449ae.png">
-shot 2023-01-06 at 11 57 38" src="https://user-images.githubusercontent.com/76222513/211889070-e71bc1aa-574c-445d-9df7-cb5e32a9544b.png">
-<img width="692" alt="Screenshot 2023-01-06 at 11 57 48" src="https://user-images.githubusercontent.com/76222513/211889079-d403443b-3783-4edc-ba9b-6b619ee196e8.png">
+<img width="692" alt="Screenshot 2023-01-06 at 11 57 48" src="https://user-images.githubusercontent.com/76222513/211889223-9f29967d-6736-48ec-84b1-eceb8b877b5f.png">
 
 
 
